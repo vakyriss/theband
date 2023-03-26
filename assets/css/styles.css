@@ -217,6 +217,7 @@ html {
 #slider .text-desc {
     margin-top: 25px;
     font-size: 15px;
+    text-shadow: 0 0 3px #000;
 }
 
 #content {
